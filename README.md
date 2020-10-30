@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **g-barbosa/g-barbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.linkedin.com/in/giovannebbarbosa"><img src="https://github.com/g-barbosa/g-barbosa.github.io/blob/master/img/icons/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/giovannebbarbosa)
+<a href="mailto:giovanne.bbarbosa@gmail.com"><img src="https://github.com/g-barbosa/g-barbosa.github.io/blob/master/img/icons/email.png" width="16"></img></a> [Email](mailto:giovanne.bbarbosa@gmail.com)
+<a href="https://www.linkedin.com/in/giovannebbarbosa"><img src="https://github.com/g-barbosa/g-barbosa.github.io/blob/master/img/icons/linkedin.png" width="16"></img></a> [Email](https://www.linkedin.com/in/giovannebbarbosa)
 <center>
 <table>
     <tr>
