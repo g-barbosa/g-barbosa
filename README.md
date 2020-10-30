@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="mailto:giovanne.bbarbosa@gmail.com"><img src="https://github.com/g-barbosa/g-barbosa.github.io/blob/master/img/icons/email.png" width="16"></img></a> [Email](mailto:giovanne.bbarbosa@gmail.com)
+<br>
 <a href="https://www.linkedin.com/in/giovannebbarbosa"><img src="https://github.com/g-barbosa/g-barbosa.github.io/blob/master/img/icons/linkedin.png" width="16"></img></a> [Email](https://www.linkedin.com/in/giovannebbarbosa)
 <center>
 <table>
