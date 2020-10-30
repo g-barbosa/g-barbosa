@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.linkedin.com/in/giovannebbarbosa"><img src="https://github.com/g-barbosa/g-barbosa.github.io/blob/master/img/icons/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/giovannebbarbosa)
 <center>
 <table>
     <tr>
