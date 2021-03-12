@@ -3,7 +3,6 @@
 
 **Back-end developer** and skater in my spare time.
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning about **Design Patterns**
 - 💬 Ask me about anything and i will try to help you
 - 📫 Email: [**giovanne.bbarbosa@gmail.com**](mailto:giovanne.bbarbosa@gmail.com)
