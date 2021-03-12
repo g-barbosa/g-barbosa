@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Back-end developer** and skater in my spare time.
+I'm a **Back-end developer** and skater in my spare time.
 
 - 🌱 I’m currently learning about **Design Patterns**
 - 💬 Ask me about anything and i will try to help you
