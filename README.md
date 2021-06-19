@@ -3,7 +3,7 @@
 
 I'm a **Back-end developer** and skater in my spare time.
 
-- 🌱 I’m currently learning about **Design Patterns**
+- 🌱 I’m currently learning about **Design Patterns** and **Domain Driven Design**
 - 💬 Ask me about anything and i will try to help you
 - 📫 Email: [**giovanne.bbarbosa@gmail.com**](mailto:giovanne.bbarbosa@gmail.com)
 - 📫 LinkedIn: [**Giovanne**](https://www.linkedin.com/in/giovannebbarbosa)
