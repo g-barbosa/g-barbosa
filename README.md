@@ -8,6 +8,7 @@ I'm a **Back-end developer** and skater in my spare time.
 - 📫 Email: [**giovanne.bbarbosa@gmail.com**](mailto:giovanne.bbarbosa@gmail.com)
 - 📫 LinkedIn: [**Giovanne**](https://www.linkedin.com/in/giovannebbarbosa)
 - 😄 Pronouns: **He/Him**
+- 📚 A collection of things I learn while studying daily: [TIL](https://github.com/g-barbosa/til)
 <center>
 <table>
     <tr>
