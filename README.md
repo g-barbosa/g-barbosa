@@ -13,7 +13,6 @@ I'm a **Back-end developer** and skater in my spare time.
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-barbosa&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=g-barbosa&theme=buefy"/></td>
     </tr>   
 </table>
 </center> 
